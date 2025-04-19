@@ -35,9 +35,9 @@ This project was built using **Power BI** and focuses on:
 
 | File/Folder         | Description                            |
 |---------------------|----------------------------------------|
-| `Dashboard Screenshot.png` | A preview of the Power BI dashboard  |
+| `DashboardScreenshot.png` | A preview of the Power BI dashboard  |
 | `README.md`         | Project documentation (this file)      |
-| `Dataset/`          | Folder containing raw/cleaned data     |
+| `Global_Cybersecurity_Threats_2015-2024`          | File contains cleaned data     |
 
 
 ---
@@ -46,7 +46,7 @@ This project was built using **Power BI** and focuses on:
 
 > This is a Power BI file meant for viewing and exploring in the Power BI Desktop app.
 
-1. Clone this repo or download the `.pbix` file (if provided)
+1. Clone this repo or download the `.pbix` file .
 2. Open in Power BI Desktop
 3. Interact with filters to explore different trends
 4. Check KPI cards, heatmaps, and charts for key metrics
@@ -55,7 +55,7 @@ This project was built using **Power BI** and focuses on:
 
 ## 📈 Dashboard Preview
 
-> ![Cybersecurity Dashboard Preview](./Dashboard%20Screenshot.png)
+> ![Cybersecurity Dashboard Preview](./DashboardScreenshot.png)
 
 ---
 
